@@ -1,16 +1,14 @@
 {
   "AdsController": {
-    "adNetwork": "applovin",
-    "admobBanner": "",
-    "admobInterstitial": "",
-    "AdmobNative": "",
-    "applovinBanner": "999999999999999Banner",
-    "applovinInterstitial": "88888888888Inter",
-    "ApplovinNative": "77777777777777Native",
-    "unityGameId": "",
-    "testMode": false,
-    "unityBanner": "",
-    "unityInterstitial": "",
-    "RatingActive": true
+    "adNetwork": "ironsource",
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "applovinBanner": "16cb520e5",
+    "applovinInterstitial": "16cb520e5",
+    "unityGameId": "5134765",
+    "testMode": true,
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+	"isAppId": "19cd88085"
   }
 }
